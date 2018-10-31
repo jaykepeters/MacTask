@@ -1,2 +1,1 @@
-# Playground
-## For Go testing 
+# Playground for Testing
