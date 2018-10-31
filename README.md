@@ -1,5 +1,5 @@
 # MacTask
-A user-friendly CLI to perform common tasks on a Mac
+A user-friendly CLI to perform common Mac tasks
 
 # Command Line Options
 |   Option    |   Alias   |    Description    |
