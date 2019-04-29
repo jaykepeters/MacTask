@@ -73,8 +73,8 @@ func emptyTrash() {
 func resetLP() {
 	cmd1 := exec.Command("defaults", "write", "com.apple.dock", "ResetLaunchPad", "-bool", "true")
 	cmd2 := exec.Command("pkill", "Dock")
-	cmd1.Start()
-	cmd2.run()
+	cmd1.run()
+	cmd2.Start()
 }
 
 // Reset Dock
